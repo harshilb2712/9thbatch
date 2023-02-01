@@ -15,3 +15,4 @@ def subtract():
     b = 2
     c = a - b
     return c
+# Adding new function
