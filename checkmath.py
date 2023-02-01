@@ -16,3 +16,12 @@ def subtract():
     c = a - b
     return c
 # Adding new function
+
+def multiply():
+    return 2 * 3
+
+def divide():
+    q = 3
+    w = 3
+    d = q / w
+    return d
