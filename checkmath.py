@@ -9,3 +9,9 @@ def add(a, b):
 pi = 56
 
 d = {'Name':'Someone', 23:12}
+
+def subtract():
+    a = 5
+    b = 2
+    c = a - b
+    return c
