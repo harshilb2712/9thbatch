@@ -17,8 +17,10 @@ def subtract():
     return c
 # Adding new function
 
-def multiply():
-    return 2 * 3
+def mul():
+    x = 2
+    y = 5
+    return (x*y)
 
 def divide():
     q = 3
