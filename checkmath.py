@@ -16,3 +16,8 @@ def subtract():
     c = a - b
     return c
 # Adding new function
+def mul():
+    x = 2
+    y = 5
+    return (x*y)
+    
